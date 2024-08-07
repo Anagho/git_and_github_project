@@ -1,6 +1,9 @@
 # Instructions
 
 1. Create a folder called `learn_git`.
+    ```sh
+    mkdir learn_git
+    ```
 2. Change directory into the `learn_git` folder:
     ```sh
     cd learn_git
